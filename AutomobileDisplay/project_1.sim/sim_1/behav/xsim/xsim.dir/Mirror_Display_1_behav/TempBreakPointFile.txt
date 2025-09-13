@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+32,true,"C:/Users/danbe/Desktop/DSP Projects/VivadoPrac/AutomobileDisplay/project_1.srcs/sources_1/new/Mirror_Display_1.v"
