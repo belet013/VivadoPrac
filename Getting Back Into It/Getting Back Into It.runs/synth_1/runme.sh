@@ -25,7 +25,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/danbe/Desktop/DSP Projects/Vivado Projects/Getting Back Into It/Getting Back Into It.runs/synth_1'
+HD_PWD='C:/Users/danbe/Desktop/DSP Projects/VivadoPrac/Getting Back Into It/Getting Back Into It.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

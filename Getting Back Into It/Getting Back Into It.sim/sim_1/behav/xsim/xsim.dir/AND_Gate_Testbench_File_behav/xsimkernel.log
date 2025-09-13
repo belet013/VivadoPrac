@@ -1,0 +1,7 @@
+Running: xsim.dir/AND_Gate_Testbench_File_behav/xsimk.exe -simmode gui -wdb AND_Gate_Testbench_File_behav.wdb -simrunnum 0 -socket 57116
+Design successfully loaded
+Design Loading Memory Usage: 8476 KB (Peak: 8476 KB)
+Design Loading CPU Usage: 78 ms
+Simulation completed
+Simulation Memory Usage: 9200 KB (Peak: 9200 KB)
+Simulation CPU Usage: 108 ms
