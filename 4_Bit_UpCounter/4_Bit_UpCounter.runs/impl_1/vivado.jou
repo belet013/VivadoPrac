@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sat Sep 13 23:18:13 2025
+# Process ID         : 1316
+# Current directory  : C:/Users/danbe/Desktop/DSP Projects/VivadoPrac/4_Bit_UpCounter/4_Bit_UpCounter.runs/impl_1
+# Command line       : vivado.exe -log Counter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Counter.tcl -notrace
+# Log file           : C:/Users/danbe/Desktop/DSP Projects/VivadoPrac/4_Bit_UpCounter/4_Bit_UpCounter.runs/impl_1/Counter.vdi
+# Journal file       : C:/Users/danbe/Desktop/DSP Projects/VivadoPrac/4_Bit_UpCounter/4_Bit_UpCounter.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-D1B772S
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 3600 6-Core Processor              
+# CPU Frequency      : 3600 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 51488 MB
+# Swap memory        : 7516 MB
+# Total Virtual      : 59004 MB
+# Available Virtual  : 41952 MB
+#-----------------------------------------------------------
+source Counter.tcl -notrace

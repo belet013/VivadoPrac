@@ -41,7 +41,7 @@ Mirror_Display_1 U0(Temperature, Average_mpg, Instantaneous_mpg, Miles_remaining
         SS = 2'b00;
         #100; // 100 ns delay
         
-            Average_mpg = 8'b1001000;
+            Average_mpg = 8'b10011000;
             Instantaneous_mpg = 8'b10010010;
             Miles_remaining = 8'b00001111;
             SS = 2'b11;
